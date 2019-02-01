@@ -10,7 +10,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <forceContextQualifier>v${maven.build.timestamp}</forceContextQualifier>
         <maven.build.timestamp.format>yyyyMMddHHmm</maven.build.timestamp.format>
-        <xtend-version>2.7.3</xtend-version>
+        <xtend-version>2.15.0</xtend-version>
     </properties>
 
     <pluginRepositories>
